@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lesson02_AndroidSchool</string>
+    <string name="app_name">Module1</string>
     <string name="field_1">Number 1</string>
     <string name="field_2">Number 2</string>
     <string name="operation_1">Plus</string>
@@ -11,4 +11,5 @@
     <string name="result_field">Result</string>
     <string name="calculate_button">Calculate</string>
     <string name="operation_not_found_message">Please, choose an operation</string>
+    <string name="clear">Clear all</string>
 </resources>
