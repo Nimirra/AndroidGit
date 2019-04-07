@@ -12,4 +12,5 @@
     <string name="calculate_button">Calculate</string>
     <string name="operation_not_found_message">Please, choose an operation</string>
     <string name="clear">Clear all</string>
+    <string name="arithmeticException">It is impossible to divide by zero</string>
 </resources>

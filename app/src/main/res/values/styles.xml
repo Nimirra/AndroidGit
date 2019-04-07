@@ -27,12 +27,11 @@
 
     <style name="MyEditText">
         <item name="android:textSize">18sp</item>
-        <item name="android:textColor">#00FF00</item>
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginStart">8dp</item>
         <item name="android:layout_marginEnd">8dp</item>
-        <item name="android:inputType">numberDecimal</item>
+        <item name="android:inputType">numberDecimal|numberSigned</item>
     </style>
 
     <style name="MyCheckBox">
